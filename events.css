@@ -1,0 +1,35 @@
+body {
+	font-family: futura;
+	background-color: black;
+	color:  white;
+}
+
+.pig {
+	color: blue;
+}
+
+.hulk {
+	font-size:  2em;
+}
+
+.capture {
+	border:  .1em solid black;
+}
+
+.round {
+	border-radius:  1.3em;
+}
+
+#intro {
+	font-weight: bold;
+}
+
+#end {
+	font-weight: bold;
+	font-style:  italic;
+}
+
+#buttons {
+	display:  block;
+}
+
